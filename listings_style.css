@@ -1,0 +1,186 @@
+/* 
+ * listings styles
+ *
+ * 
+ */
+
+#activelistings {
+	clear: left;
+}
+
+#pendingsales {
+	clear: left;
+}
+
+#soldlistings {
+	clear: left;
+}
+
+#gre_map_canvas {
+	width: 400px;
+	height: 400px;
+	border: 1px solid black;
+}
+#gre_map_multi {
+	width: 400px;
+	height: 400px;
+	border: 1px solid black;
+}
+
+#gmap-info {
+	padding: 0;
+	margin: 0;
+}
+#gmap-info h3 {
+	padding: 0;
+	text-align: left;
+	font-size: 14px;
+	margin: 0px 0px 0px 0px;
+}
+
+#gmap-info .listing-thumb {
+	float: left;
+	padding-right: 5px;
+}
+#gmap-info p {
+	text-align: left;
+	vertical-align: top;
+}
+
+.adobe-reader img {
+	padding-top: 5px;
+	padding-left: 5em;
+	padding-right: 5em;
+}
+
+.propdata {
+	clear: left;
+	text-align: center;
+	display: block;
+	font-variant: small-caps;
+	font-size: smaller;
+	border: 1px solid black;
+	padding: 2px;
+	margin-top: 2px;
+}
+.propdata h3 {
+	padding: 0px;
+	margin: 0px;
+}
+.propdata-line div {
+	display: inline;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.propfeatures {
+	font-weight: bold;
+	color: #34431d;
+}
+.page-propdata-box {
+	text-align: center;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+.page-blurb {
+	font-weight: bold;
+	color: #34431d;
+	text-align: center;
+	font-variant: small-caps;
+	text-transform: capitalize;
+}
+.propdata h3 {
+	font-style: italic;
+}
+.prop-box-featured em {
+	font-size: smaller;
+}
+
+.wordtube {
+	margin: 0 auto;
+	padding: 10px;
+
+}
+
+.prop-box, .prop-box-avail {
+	padding: 5px;
+	margin: 10px 5px 5px 0;
+}
+.prop-box-avail {
+	background: #dddddd;
+	width: 540px;
+	min-height: 75px;
+	display: block;
+}
+.prop-box-avail h2, .prop-box-avail a, .prop-box-avail h3 {
+	padding: 0px;
+	margin: 0px;
+}
+.prop-box {
+	background: #ddd;
+	min-height: 80px;
+	width: 300px;
+	display: block;
+	float: left;
+	margin-right: 20px;
+}
+.prop-box h2, .prop-box a, .prop-box h3 {
+	padding: 0px;
+	margin: 0px;
+}
+.prop-box-featured {
+	min-height: 80px;
+	display: block;
+	padding: 0px;
+	margin: 0px;
+}
+.prop-float-container {
+	background: #dddddd;
+	width: 540px;
+	min-height: 75px;
+	display: block;
+}
+.prop-box em {
+	font-size: smaller;
+}
+
+.prop-thumb {
+	float: left;
+	padding: 0px;
+	margin-right: 5px;
+	margin-bottom: 4px;
+	display: block;
+}
+.propwassold {
+	color: red;
+	font-weight: bold;
+}
+.vt-box {
+	text-align: center;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+.vtdata {
+	clear: left;
+	text-align: center;
+	display: block;
+	font-variant: small-caps;
+	font-size: larger;
+	border: 0px;
+	padding: 2px;
+	margin-top: 2px;
+}
+.vtour-line div {
+	display: inline;
+	padding-right: 10px;
+	padding-left: 10px;
+	
+}
+.desc-data {
+	clear: left;
+	text-align: center;
+	display: block;
+	border: 1px solid black;
+	padding: 2px;
+	margin-top: 2px;
+}
+/*end listings css */
